@@ -2,6 +2,8 @@ package com.sudhamsh.ml;
 
 import org.apache.commons.math3.distribution.NormalDistribution;
 
+// Author : Sudhamsh Bachu
+
 public class AnomalyDetection {
 
     /**
